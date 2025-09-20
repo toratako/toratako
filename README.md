@@ -1,4 +1,4 @@
-# I'm Toratako!
+# I'm toratako!
 
 I'm a student at [Okayama University](https://www.okayama-u.ac.jp/).  
 My faculty is [engineering](https://www.engr.okayama-u.ac.jp/), and the major is [information technology, electrical engineering, and mathematical and data sciences](https://www.engr.okayama-u.ac.jp/iem/).  
