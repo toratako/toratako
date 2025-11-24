@@ -1,8 +1,6 @@
 # I'm toratako!
 
-I'm a student at [Okayama University](https://www.okayama-u.ac.jp/).  
-My faculty is [engineering](https://www.engr.okayama-u.ac.jp/), and the major is [information technology, electrical engineering, and mathematical and data sciences](https://www.engr.okayama-u.ac.jp/iem/).  
-I belong to [岡山大学 DS部](https://okadai-dsc.studio.site/).  
+You can learn more about me on [my profile page](https://toratako.gitlab.io/blog/profile/)!  
 
 <div align="center">
 <br>
@@ -11,10 +9,6 @@ I belong to [岡山大学 DS部](https://okadai-dsc.studio.site/).
 
 <br>
 </div>
-
-## Socials
-
-[Blog](https://toratako.gitlab.io/blog/) | [X (a.k.a. Twitter)](https://x.com/toratak0)  | [GitLab](https://gitlab.com/toratako)  
 
 <br>
 
