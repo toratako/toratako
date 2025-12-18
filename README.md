@@ -1,11 +1,11 @@
-# I'm toratako!
+# toratako
 
-You can learn more about me on [my profile page](https://toratako.gitlab.io/blog/profile/)!  
+Detailed information: [Profile Page](https://toratako.gitlab.io/blog/profile/).  
 
 <div align="center">
 <br>
 
-## Stats
+## Activity
 
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toratako&theme=tokyonight)  
 
@@ -14,6 +14,6 @@ You can learn more about me on [my profile page](https://toratako.gitlab.io/blog
 
 <br>
 
-## Thanks 
+## Resources 
 
 [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
